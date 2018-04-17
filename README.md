@@ -8,6 +8,7 @@ Permission for Phone and For Locations need to be enabled for application to run
 
 ## Read status
 You can detect how much battery is left, display IMEI, SIM card ID and much more.
+### Status
 ![Alt Text](https://github.com/adriel1997/CrawSecurity/blob/master/Screenshot_2018-04-16-21-29-35.png)
 
 ## Multiple phones on the same account
@@ -19,6 +20,7 @@ Multiple phones can log into the same account using firebase authentication.
 
 ## Send Notification On Lost Devices
 First time login on Device will genrate a token. Using this token a notification can be sent on that device if case it is stolen after user logins into account on another device.
+### Notification
 ![Alt Text](https://github.com/adriel1997/CrawSecurity/blob/master/Screenshot_2018-04-17-18-45-29.png)
 
 ### Steps
